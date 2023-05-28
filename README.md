@@ -17,15 +17,4 @@ To run the program, follow these steps:
 5. Run the following command to execute the program:
 6. The program will display the solution if one exists, or indicate that there is no solution.
 
-## Example Output
 
-Here is an example of the program's output for an 8x8 chessboard:
-
-. Q . . . . . .
-. . . . Q . . .
-. . . . . . . Q
-. . . . . Q . .
-. . Q . . . . .
-. . . . . . Q .
-Q . . . . . . .
-. . . Q . . . .
