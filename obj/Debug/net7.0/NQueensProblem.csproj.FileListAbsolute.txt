@@ -1,0 +1,15 @@
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.csproj.AssemblyReference.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.AssemblyInfoInputs.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.AssemblyInfo.cs
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.csproj.CoreCompileInputs.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\bin\Debug\net7.0\NQueensProblem.exe
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\bin\Debug\net7.0\NQueensProblem.deps.json
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\bin\Debug\net7.0\NQueensProblem.runtimeconfig.json
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\bin\Debug\net7.0\NQueensProblem.dll
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\bin\Debug\net7.0\NQueensProblem.pdb
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.dll
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\refint\NQueensProblem.dll
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.pdb
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\NQueensProblem.genruntimeconfig.cache
+C:\Plovdiv_University\Software_Engineering_1_year\SummerSemester23\NQueensProblem\obj\Debug\net7.0\ref\NQueensProblem.dll
